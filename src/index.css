@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@200;300;400;500;600;700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "MonoLisa";
+  src: url("./assets/fonts/MonoLisa-Regular.woff2");
+}
+
+@font-face {
+  font-family: "MonoLisaBold";
+  src: url("./assets/fonts/MonoLisa-Bold.woff2");
+}
+
+@font-face {
+  font-family: "Southam Demo";
+  src: url("./assets/fonts/Southam Demo.otf");
+}
+
+@font-face {
+  font-family: "Monaco";
+  src: url("./assets/fonts/Monaco.woff");
+}
+
+.fade-enter-active,
+.fade-leave-active {
+  transition: opacity 0.2s ease;
+}
+
+.fade-enter-active {
+  transition-delay: 0.2s;
+}
+
+.fade-enter-from,
+.fade-leave-to {
+  opacity: 0;
+}
+
+body {
+}
+
+div > .router-link-active {
+}
