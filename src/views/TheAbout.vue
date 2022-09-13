@@ -1,22 +1,23 @@
 <template>
     <div class="flex flex-col gap-8">
-      <p
+      <h1
         class="text-sm md:text-base leading-relaxed slg:text-lg lg:leading-loose"
       >
         I'm Tary
-      </p>
+    </h1>
+    <h2>Bio</h2>
       <p
         class="text-sm md:text-base leading-relaxed slg:text-lg lg:leading-loose"
       >
-        I'm currently working on
+        
+      I graduated out of CSU Sacramento with a Bachelor degree in Computer Engineering (2017).
+        I've spent most of my career working as a optics technician for a startup company since 2018.
+        I spent most of my time here using Python 2.7 & Python 3 to write codes for product analytics.
+        
         <LinkBtn link="https://scarletdynasty.vercel.app">web</LinkBtn
         >,
       </p>
-      <p
-        class="text-sm md:text-base leading-relaxed slg:text-lg lg:leading-loose"
-      >
-        Blah
-      </p>
+
       <p
         class="text-sm md:text-base leading-relaxed slg:text-lg lg:leading-loose"
       >
@@ -24,11 +25,7 @@
         <LinkBtn link="https://github.com/taryb">Github</LinkBtn> or on my
         <LinkBtn link="/">Portfolio</LinkBtn> page. 
       </p>
-      <p
-        class="text-sm md:text-base leading-relaxed slg:text-lg lg:leading-loose"
-      >
-        HI
-      </p>
+
       <hr class="bg-squgily bg-repeat border-0 h-[6px] opacity-25 my-6" />
       <div class="flex flex-col gap-5">
         <h3 class="font-theme_bold text-head_text text-3xl">Work</h3>

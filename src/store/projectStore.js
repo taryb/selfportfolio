@@ -11,7 +11,7 @@ export const useProjectStore = defineStore("projectStore", {
         description:
           "I made this website.",
         tech: ["Vue.js", "Pinia", "TailwindCSS"],
-        link: "vite-psi-three.vercel.app",
+        link: "tarybport.vercel.app",
         featured: true,
       },
     ],
