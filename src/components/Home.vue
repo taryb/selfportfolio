@@ -19,7 +19,7 @@
       >
         
         <LinkBtn link="https://google.com/"></LinkBtn>, 
-        <LinkBtn link="https://tarybport.vercel.app/">websiteddd</LinkBtn
+        <LinkBtn link="https://tarybport.vercel.app/">websitedddaaddd</LinkBtn
         >,
       </p>
     </div>
