@@ -6,7 +6,7 @@ export const useProjectStore = defineStore("projectStore", {
       {
         id: 1,
         name: "portfolio",
-        image: new URL("../assets/featured/scarlet_dyn.png", import.meta.url)
+        image: new URL("../assets/images/duck.jpg", import.meta.url)
           .href,
         description:
           "I made this website.",
@@ -19,7 +19,7 @@ export const useProjectStore = defineStore("projectStore", {
       {
         id: 1,
         name: "Nothing yet",
-        image: new URL("../assets/featured/case_changer.jpg", import.meta.url)
+        image: new URL("../assets/images/duck.jpg", import.meta.url)
           .href,
         description:
           "A nothing yet.",
