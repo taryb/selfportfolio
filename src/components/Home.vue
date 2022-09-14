@@ -14,13 +14,5 @@
         I am currently working on polishing my skills as a future Web Developer. 
 
       </p>
-      <p
-        class="text-sm md:text-base leading-relaxed slg:text-lg lg:leading-loose"
-      >
-        
-        <LinkBtn link="https://google.com/"></LinkBtn>, 
-        <LinkBtn link="https://tarybport.vercel.app/">websitedddaaddd</LinkBtn
-        >,
-      </p>
     </div>
   </template>
