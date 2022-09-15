@@ -3,9 +3,10 @@
       <h1
         class="text-sm md:text-base leading-relaxed slg:text-lg lg:leading-loose"
       >
-        I'm Tary
+        Hello! My name is Tary. I enjoy learning new things and taking on challenges. 
+        I have spent most of my life freelancing software and troubleshooting hardware. I've always wanted to 
+        build and maintain my own website.
     </h1>
-    <h2>Bio</h2>
       <p
         class="text-sm md:text-base leading-relaxed slg:text-lg lg:leading-loose"
       >
@@ -14,9 +15,16 @@
         I've spent most of my career working as a optics technician for a startup company since 2018.
         I spent most of my time here using Python 2.7 & Python 3 to write codes for product analytics.
         
-        <LinkBtn link="https://scarletdynasty.vercel.app">web</LinkBtn
-        >,
       </p>
+      Some of my skills include:
+      <ul>
+        <li>Python 2.7 and 3</li>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+        
+        </ul>
+
 
       <p
         class="text-sm md:text-base leading-relaxed slg:text-lg lg:leading-loose"
