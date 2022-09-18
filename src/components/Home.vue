@@ -7,7 +7,7 @@
       <p
         class="text-sm md:text-base leading-relaxed slg:text-lg lg:leading-loose"
       >
-        I am working on polishing my skills as a future Web Developer.a 
+        I am working on polishing my skills as a future Web Developer.
 
       </p>
 
