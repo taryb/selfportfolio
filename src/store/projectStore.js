@@ -5,13 +5,13 @@ export const useProjectStore = defineStore("projectStore", {
     projects: [
       {
         id: 1,
-        name: "portfolio",
-        image: new URL("../assets/images/duck.jpg", import.meta.url)
+        name: "Counter",
+        image: new URL("../assets/images/vuecounter.png", import.meta.url)
           .href,
         description:
-          "I made this website.",
-        tech: ["Vue.js", "Pinia", "TailwindCSS"],
-        link: "tarybport.vercel.app",
+          "A simple counter .",
+        tech: ["Vue.js"],
+        link: "https://github.com/taryb/js_counter",
         featured: true,
       },
     ],
