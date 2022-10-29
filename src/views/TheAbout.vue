@@ -3,7 +3,7 @@
       <h1
         class="text-sm md:text-base leading-relaxed slg:text-lg lg:leading-loose"
       >
-        Hello! My name is Tary. I enjoy learning new things and taking on challenges. 
+        Hello! My name is not Tary. I enjoy learning new things and taking on challenges. 
         I have spent most of my life freelancing software and troubleshooting hardware. I've always wanted to 
         build and maintain my own website.
     </h1>
